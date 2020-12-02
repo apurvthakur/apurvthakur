@@ -19,6 +19,9 @@
 <a href="https://www.hackerearth.com/@apurvthakur_" target="blank">
 <img align="center" src="https://simpleicons.org/icons/hackerearth.svg" alt="Apurv" height="30px" width="30" />
 </a>
+<a href="https://dev.to/apurvthakur" target="blank">
+  <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Apurv Thakur's DEV Profile" height="30" width="30">
+</a>
 <a href="https://www.instagram.com/apurvthakur_/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Apurv" height="30px" width="30" />
 </a>
